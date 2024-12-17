@@ -1,3 +1,4 @@
+![logo](https://github.com/Afzal015/Afzal015/blob/main/DALL%C2%B7E%202024-12-18%2002.43.08%20-%20A%20sleek%20GitHub%20banner%20with%20a%20dark%20theme%2C%20using%20dark%20blue%20and%20dark%20orange%20gradient%20as%20the%20primary%20colors.%20In%20the%20center%20of%20the%20banner%2C%20there's%20a%20circul.webp)
 <h1 align="center">Hi 👋, I'm Afzal</h1>
 <h3 align="center">A passionate Full-Stack Cross-Platform Developer From Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
